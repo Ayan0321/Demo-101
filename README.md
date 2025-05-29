@@ -1,2 +1,2 @@
-# Demo-101
-This is a Demo repository
+# Demo-
+This is a Demo repository for Git &amp; Github.
